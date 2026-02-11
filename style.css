@@ -70,6 +70,7 @@ table {
 
 body {
     font-family: "Playfair Display", serif;
+    background-color: var(--linen);
 }
 
 header {
@@ -84,4 +85,8 @@ header h1 {
 
 header h4 {
     font-style: italic;
+}
+
+nav ul {
+    background-color: var(--champagne-gold);
 }
