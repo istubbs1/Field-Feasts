@@ -167,7 +167,13 @@ h2 {
     padding: 5px;
     font-size: 1.2em;
     font-weight: bold;
+    border-radius: 5px;
 }
+
+#gallery img {
+    border-radius: 10px 10px 0 0;
+}
+
 #offerings h2 {
     padding: 20px;
 }
@@ -181,8 +187,11 @@ h2 {
 }
 
 #gallery h4 {
+    color: var(--dark-charcoal);
     font-style: italic;
     padding: 10px;
+    border-radius: 0 0 10px 10px;
+    box-shadow: 0 0 5px 5px var(--dark-charcoal);
 }
 
 nav a{
