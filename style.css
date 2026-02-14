@@ -172,6 +172,10 @@ h2 {
     padding: 20px;
 }
 
+#gallery h4 {
+    font-style: italic;
+}
+
 nav a{
     color: var(--midnight-blue);
     text-decoration: none;
