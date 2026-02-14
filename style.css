@@ -124,6 +124,18 @@ h2 {
     padding: 20px;
 }
 
+#offerings h3 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+#offerings ul li {
+    list-style-type: disc;
+    margin-left: 20px;
+    padding: 5px;
+}
+
 nav ul {
     background-color: var(--champagne-gold);
     text-decoration: none;
